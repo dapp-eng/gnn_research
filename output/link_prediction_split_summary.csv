@@ -1,0 +1,4 @@
+split,n_positive_pairs,percentage
+train,861,75.13089005235602
+validation,142,12.390924956369982
+test,143,12.478184991273997

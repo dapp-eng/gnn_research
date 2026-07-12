@@ -1,0 +1,49 @@
+path,description
+output/raw_shape_summary.csv,raw dataframe shape summary
+output/raw_dtype_summary.csv,raw dataframe dtype summary per column
+output/raw_null_summary.csv,raw dataframe null value summary per column
+output/viz/eda_overview_distributions.png,"overview of year, document type, source, and author count distributions"
+output/eda_distribution_summary.csv,"combined summary table of year, document type, source, and author count distributions"
+output/viz/top_authors_by_publication_count.png,bar chart of top fifteen authors by raw publication count
+output/top_authors_by_publication_count.csv,full ranking of authors by raw publication count
+output/missing_value_pattern.csv,overall missing value ratio for doi and keywords fields
+output/missing_value_by_document_type.csv,missing value ratio for doi and keywords broken down by document type
+output/missing_value_by_source.csv,missing value ratio for doi and keywords broken down by source
+output/ieee_keyword_count_distribution.csv,distribution of ieee keyword count per paper and repetition diagnostic used to judge field trustworthiness
+output/viz/collaboration_edge_volume_and_cumulative_ratio.png,collaboration edge volume per year with cumulative ratio used to decide temporal split cutoff
+output/collaboration_edge_volume_by_year.csv,tabular edge volume and cumulative ratio per year for split cutoff decision
+output/author_id_name_lookup.csv,deduplicated canonical author id to normalized name lookup table
+output/clean_papers.csv,"cleaned paper level table with normalized authors, standardized document type, and year reliability flag"
+output/paper_embeddings.csv,sentence embedding vector per paper built from title and keywords
+output/author_content_embedding_full.csv,"author content embedding using entire publication history, used for expert retrieval"
+output/author_feature_table.csv,author level activity and structural feature table
+output/hdbscan_grid_search.csv,"hdbscan parameter grid search results with cluster count, noise ratio, and dbcv validity index per combination"
+output/viz/hdbscan_grid_search_noise_ratio.png,dbcv validity index across hdbscan parameter grid search used to objectively justify parameter selection
+output/topic_assignment_method_summary.csv,count of papers assigned by native hdbscan density clustering versus centroid reassignment for former noise papers
+output/topic_labels.csv,automatic topic labels derived from class based tfidf top terms per cluster
+output/paper_topic_assignment.csv,topic id and automatic label assigned to every paper
+output/author_topic_profile_matrix.csv,author by topic publication count matrix
+output/author_topic_sub_embeddings.csv,per author per topic mean embedding computed only from that authors papers in the topic
+output/viz/topic_clusters_umap_scatter.png,two dimensional umap scatter of papers colored by discovered topic cluster
+output/viz/topic_clusters_umap_scatter.html,interactive two dimensional umap scatter of papers colored by discovered topic cluster
+output/viz/top5_topic_distribution.png,bar chart of paper count per discovered topic with automatic labels
+output/knowledge_graph_triples.csv,full multi relation knowledge graph triples with head relation tail columns
+output/knowledge_graph_statistics.csv,basic knowledge graph statistics including entity and relation type counts
+output/link_prediction_split_summary.csv,temporal split summary showing train validation test positive pair counts and percentages
+output/cold_start_diagnostics.csv,proportion of evaluation pairs with no common neighbor in training graph indicating cold start difficulty
+output/negative_sampling_summary.csv,random and hard negative sample counts and ratio per split with future positive pairs excluded from train negatives
+output/journal_conference_weight_ablation.csv,ablation study of journal versus conference positive loss weight ratio measured by validation auc
+output/viz/journal_conference_weight_ablation.png,validation auc curve across journal versus conference loss weight ratio candidates
+output/viz/vgae_training_loss_curve.png,training loss curve for the variational graph autoencoder model
+output/models/vgae_graphsage_model.pt,trained variational graph autoencoder with graphsage encoder state dict
+output/models/rgcn_model.pt,trained relational graph convolutional network state dict
+output/viz/kge_training_loss_curves.png,training loss curves for rotate and complex knowledge graph embedding models
+output/models/rotate_model.pt,trained rotate knowledge graph embedding model state dict
+output/models/complex_model.pt,trained complex knowledge graph embedding model state dict
+output/model_comparison.csv,comparison table of all link prediction models on test split metrics
+output/viz/model_comparison_bar_chart.png,bar chart comparing all link prediction models across evaluation metrics
+output/cold_start_breakdown.csv,per model evaluation metrics broken down by cold start versus non cold start test subset
+output/viz/cold_start_breakdown_auc.png,auc comparison between cold start and non cold start test subsets across all models
+output/top3_link_prediction_models.csv,"top 3 link prediction models ranked by average rank across auc, average precision, hits at 10, and mean reciprocal rank"
+output/future_collaboration_predictions.csv,"predicted likelihood scores for all author pairs that have never collaborated, generated by the best performing link prediction model, sorted from most to least likely"
+output/expert_retrieval_demonstration.csv,demonstration of expert retrieval function across multiple topical query domains with matched paper title and match count as evidence

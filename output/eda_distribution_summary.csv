@@ -1,0 +1,47 @@
+dimension,value,count
+year,1990,1
+year,1995,1
+year,1996,2
+year,1997,1
+year,2000,74
+year,2001,5
+year,2002,2
+year,2003,2
+year,2004,1
+year,2005,6
+year,2006,2
+year,2007,9
+year,2008,14
+year,2009,18
+year,2010,25
+year,2011,26
+year,2012,32
+year,2013,69
+year,2014,81
+year,2015,161
+year,2016,186
+year,2017,209
+year,2018,389
+year,2019,394
+year,2020,553
+year,2021,599
+year,2022,594
+year,2023,674
+year,2024,881
+year,2025,962
+year,2026,184
+year,2027,3
+document_type,journal article,5623
+document_type,conference paper,516
+document_type,book chapter,10
+document_type,review,8
+document_type,dissertation,2
+document_type,data paper,1
+source,google_scholar,5313
+source,scopus,847
+n_authors_per_paper,1,4486
+n_authors_per_paper,2,1164
+n_authors_per_paper,3,363
+n_authors_per_paper,4,104
+n_authors_per_paper,5,35
+n_authors_per_paper,6,8

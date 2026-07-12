@@ -1,0 +1,11 @@
+column,dtype
+Title,object
+Year,int64
+Journal,object
+Keywords,object
+Document Type,object
+DOI,object
+Unesa Authors,object
+IEEE-Keywords,object
+_source,object
+Unesa Names,object

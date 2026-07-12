@@ -1,0 +1,4 @@
+split,n_positive,n_random_negative,n_hard_negative,hard_negative_ratio
+train,861,861,861,0.5
+validation,142,142,142,0.5
+test,143,143,143,0.5

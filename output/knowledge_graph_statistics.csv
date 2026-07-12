@@ -1,0 +1,12 @@
+metric,value
+n_entities,8365
+n_entities_paper,6160
+n_entities_journal,2020
+n_entities_author,126
+n_entities_topic,59
+n_relation_types,5
+n_triples_writes,8542
+n_triples_has_topic,6160
+n_triples_published_in,6160
+n_triples_coauthored_journal,1021
+n_triples_coauthored_conference,317
