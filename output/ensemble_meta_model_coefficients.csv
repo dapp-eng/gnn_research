@@ -1,0 +1,9 @@
+feature,coefficient
+rotate_score,0.4501104620923717
+complex_score,0.6448159357481833
+log_common_neighbors,0.22043288888869403
+jaccard,0.1505363309071552
+log_adamic_adar,0.24631091562789986
+log_resource_allocation,0.31694920959742795
+log_preferential_attachment,0.33852398348417256
+author_content_cosine_similarity,0.12448008682694714

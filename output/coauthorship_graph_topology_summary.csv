@@ -1,0 +1,8 @@
+metric,value
+n_nodes,126.0
+n_edges,1154.0
+n_connected_components,5.0
+giant_component_size,122.0
+giant_component_ratio,0.9682539682539683
+graph_density,0.14653968253968255
+isolated_node_count,4.0

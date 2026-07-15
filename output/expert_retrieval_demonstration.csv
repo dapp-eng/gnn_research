@@ -1,61 +1,61 @@
 query,rank,author_id,author_name,confidence_score,matched_topic_id,n_papers_matched,matched_paper_title
-machine learning,1,Smb2eg8AAAAJ,Nanang Hoesen H A,0.7280318737030029,39,3,machine learning on academic education: bibliometric studies
-machine learning,2,Hl6bqU8AAAAJ,Rindu Puspita Wibawa,0.7280318737030029,39,7,machine learning on academic education: bibliometric studies
-machine learning,3,OffRzhoAAAAJ,Dwi Fatrianto Suyatno,0.70500648021698,28,4,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
-machine learning,4,t5f89iIAAAAJ,Andi Iwan Nurhidayat,0.70500648021698,28,5,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
-machine learning,5,7EQjv9wAAAAJ,Asmunin,0.70500648021698,28,8,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
-machine learning,6,fkxhjZ4AAAAJ,Ronggo Alit,0.70402991771698,45,11,PENINGKATAN PEMAHAMAN IMPLEMENTASI MACHINE LEARNING BAGI SISWA SMK NEGERI 1 BANGIL DENGAN TEACHABLE MACHINE
-machine learning,7,LeRoniwAAAAJ,Farhanna Mari,0.70402991771698,45,10,PENINGKATAN PEMAHAMAN IMPLEMENTASI MACHINE LEARNING BAGI SISWA SMK NEGERI 1 BANGIL DENGAN TEACHABLE MACHINE
-machine learning,8,N6RJilIAAAAJ,Anita Qoiriah,0.6811481714248657,28,40,Implementasi Algoritma Machine Learning Untuk Pengelolaan Laporan Pada Website Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu (Dpmptsp) Kota Surabaya
-machine learning,9,6MXDzBQAAAAJ,Lilik Anifah,0.66853928565979,28,10,Pengenalan Plat Mobil Indonesia Menggunakan Learning Vector Quantization
-machine learning,10,hn5jrnAAAAAJ,Yuni Yamasari,0.6594263315200806,25,54,Analisa Learning Rate Dan Batch Size Pada Klasifikasi Covid Menggunakan Deep Learning Dengan Optimizer Adam
-cyber,1,RvG7jG4AAAAJ,I Made Suartana,0.6763496398925781,5,28,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
-cyber,2,eEtHoOAAAAAJ,Rahadian Bisma,0.6763496398925781,5,19,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
-cyber,3,cPj-iOIAAAAJ,Ricky Eka Putra,0.6763496398925781,5,15,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
-cyber,4,WdhKN0sAAAAJ,Aditya Prapanca,0.6763496398925781,5,31,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
-cyber,5,LsydBAMAAAAJ,Puput Wanarti Rusimamto,0.6382418870925903,24,4,SISTEM PANIC BUTTON UNTUK KONDISI DARURAT WARGA DESA BERBASIS INTERNET OF THINGS
-cyber,6,6MXDzBQAAAAJ,Lilik Anifah,0.6382418870925903,24,4,SISTEM PANIC BUTTON UNTUK KONDISI DARURAT WARGA DESA BERBASIS INTERNET OF THINGS
-cyber,7,hjllQ9gAAAAJ,Nur Kholis,0.6382418870925903,24,9,SISTEM PANIC BUTTON UNTUK KONDISI DARURAT WARGA DESA BERBASIS INTERNET OF THINGS
-cyber,8,itwnm-AAAAAJ,Achmad Fitro,0.6227536201477051,29,7,"Automatic Detection of Cyberbullying on Text, Image, and Video: A Systematic Literature Review"
-cyber,9,4VXQFKYAAAAJ,Renny Sari Dewi,0.6107575297355652,29,5,Social Engineering and Inter-Device Eavesdropping Using SCRCPY for Spoofing and Sniffing
-cyber,10,Em3aIV0AAAAJ,Ramadhan Cakra Wibawa,0.555956244468689,5,3,Sosialisasi Dan Pelatihan Tentang Privacy Dan Keamanan Internet Pada Peserta Didik Smp Negeri 1 Waru
-iot,1,LeRoniwAAAAJ,Farhanna Mari,0.6178324222564697,55,4,INDEKS NAMA PENULIS
-iot,2,Iq3gzh4AAAAJ,Andi Mariono,0.6178324222564697,55,5,INDEKS NAMA PENULIS
-iot,3,n7IAKI0AAAAJ,Joko,0.5221552848815918,55,3,Buku Mesin Arus Bolak Balik
-iot,4,p4gdgRgAAAAJ,Rusijono,0.4866664409637451,55,6,Siti & Rusijono
-iot,5,n7ykK-IAAAAJ,Dhiyan Septa Wihara,0.483773410320282,31,2,"UPAYA MENUMBUHKAN JIWA WIRAUSAHA PETERNAK LELE MELALUI JARINGAN PEMASARAN BERBASIS TEKNOLOGI INFORMASI UNTUK MENINGKATKAN DAYA JUAL LELE (PETERNAK LELE DI DESA BANGKOK, GURAH …"
-iot,6,6RBIukkAAAAJ,Yatim Riyanto,0.47581642866134644,55,3,Kamus Umum Bahasa Indonesia
-iot,7,z7RWDi0AAAAJ,Tri Rijanto,0.4673731029033661,24,11,PENGEMBANGAN TRAINER INSTALASI PENERANGAN LISTRIK 3 FASA BERBASIS INTERNET OF THINGS (IOT) UNTUK SISWA SMK KELAS XI TITL DI SMK NEGERI 3 SURABAYA
-iot,8,34CwHgkAAAAJ,Riza Akhsani Setyo Prayoga,0.44882887601852417,55,3,Penentuan Pemasok Jagung dengan Metode ROC Pada UMKM Kuliner
-iot,9,XdEn69YAAAAJ,Cendra Devayana Putra,0.44176486134529114,24,5,Internet of Things: Konsep dan Implementasi
-iot,10,-BuJoD0AAAAJ,Ratih Amelia,0.44176486134529114,24,1,Internet of Things: Konsep dan Implementasi
-analisis sentimen,1,cPj-iOIAAAAJ,Ricky Eka Putra,0.5882232785224915,29,4,exploring naive bayes variants for classifying emotions in e-commerce reviews
-analisis sentimen,2,hn5jrnAAAAAJ,Yuni Yamasari,0.5882232785224915,29,7,exploring naive bayes variants for classifying emotions in e-commerce reviews
-analisis sentimen,3,CxdwNaYAAAAJ,Wiyli Yustanti,0.5882232785224915,29,2,exploring naive bayes variants for classifying emotions in e-commerce reviews
-analisis sentimen,4,N6RJilIAAAAJ,Anita Qoiriah,0.5882232785224915,29,6,exploring naive bayes variants for classifying emotions in e-commerce reviews
-analisis sentimen,5,W7ncZRgAAAAJ,Hafid Kholidi Hadi,0.566907525062561,55,4,Kecerdasan Emosional dan Kecerdasan Spiritual Terhadap Kinerja Karyawan: Sebuah Studi Literatur
-analisis sentimen,6,tzjThtIAAAAJ,Elly Matul Imah,0.5632977485656738,28,6,classification of emotional state based on eeg signal using amglvq
-analisis sentimen,7,ZhJ08JkAAAAJ,Bachtiar Syaiful Bachri,0.5628386735916138,53,15,Instrumen Tes untuk Mengukur Keterampilan Berpikir Kritis pada Materi Statistika
-analisis sentimen,8,Tz8EfXcAAAAJ,Yuliani Puji Astuti,0.531705915927887,55,6,ISSN 2716-506X
-analisis sentimen,9,MZCJPuIAAAAJ,Fajar Arianto,0.5278704762458801,52,16,Hubungan Antara Kondisi Kesehatan Mental Dengan Prestasi Akademik Peserta Didik Kelas X Sma Negeri 6 Semarang Tahun 2023
-analisis sentimen,10,wlGfsB0AAAAJ,Salamun Rohman Nudin,0.511841893196106,28,4,Pengembangan Sistem Rekomendasi Pada Pemutar Musik menggunakan Face Emotion Detection dan Resnet Berbasis Website
-graph neural network,1,q-sbahIAAAAJ,Ulfa Siti Nuraini,0.6894165277481079,25,5,comparative study of graph neural networks for device classification in social iot
-graph neural network,2,BIrtbD8AAAAJ,Ibnu Febry Kurniawan,0.6894165277481079,25,4,comparative study of graph neural networks for device classification in social iot
-graph neural network,3,A9L19RMAAAAJ,Pradini Puspitaningayu,0.6894165277481079,25,4,comparative study of graph neural networks for device classification in social iot
-graph neural network,4,lmlBHlsAAAAJ,Widi Aribowo,0.6463146805763245,20,4,ELMAN-RECURRENT NEURAL NETWORK FOR LOAD SHEDDING OPTIMIZATION
-graph neural network,5,CxdwNaYAAAAJ,Wiyli Yustanti,0.6209824681282043,25,40,Analisis Permintaan Barang Habis Pakai Menggunakan Algoritma Apriori dan Artificial Neural Network (Studi Kasus: Instalasi Bedah Rumah Sakit X)
-graph neural network,6,Tp_X_bYAAAAJ,Farid Baskoro,0.6196012496948242,25,2,PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK: PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK
-graph neural network,7,j8HRV1wAAAAJ,Bambang Suprianto,0.6196012496948242,25,4,PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK: PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK
-graph neural network,8,wlGfsB0AAAAJ,Salamun Rohman Nudin,0.6143355369567871,29,20,Penerapan Graph Coloring Menggunakan Algoritma Greedy Pada Aplikasi Pemesanan Tiket Kapal Penyeberangan
-graph neural network,9,XdEn69YAAAAJ,Cendra Devayana Putra,0.6077060699462891,25,8,Training algorithm for dendrite morphological neural network using k-medoids
-graph neural network,10,fkxhjZ4AAAAJ,Ronggo Alit,0.6077060699462891,25,8,Training algorithm for dendrite morphological neural network using k-medoids
-big data,1,cPj-iOIAAAAJ,Ricky Eka Putra,0.6648482084274292,56,15,Klasifikasi Data Trafik Jaringan Dengan Framework Big Data Analitik
-big data,2,RvG7jG4AAAAJ,I Made Suartana,0.6648482084274292,56,6,Klasifikasi Data Trafik Jaringan Dengan Framework Big Data Analitik
-big data,3,WdhKN0sAAAAJ,Aditya Prapanca,0.6648482084274292,56,8,Klasifikasi Data Trafik Jaringan Dengan Framework Big Data Analitik
-big data,4,sHANI1gAAAAJ,Rifqi Firmansyah,0.6605119705200195,56,2,PERANCANGAN SISTEM AKUISISI DATA PEMAKAIAN LISTRIK 1 PHASA DAYA 1300 VA PADA RUMAH TINGGAL MENGGUNAKAN DATA LOGGER
-big data,5,pb3-UjwAAAAJ,Moch Deny Pratama,0.6480081081390381,56,5,Data Science: Fondasi Cerdas Pengambilan Keputusan di Era Digital
-big data,6,aW1lSOYAAAAJ,Aditya Chandra Hermawan,0.6480081081390381,56,2,Data Science: Fondasi Cerdas Pengambilan Keputusan di Era Digital
-big data,7,psg8hdoAAAAJ,Bonda Sisephaputra,0.6336722373962402,56,3,Buku Ajar Perancangan Sistem Basis Data
-big data,8,AX-w0AEAAAAJ,Hasanuddin Al-Habib,0.6139959096908569,56,2,Data Analyst
-big data,9,jJBtZPgAAAAJ,Siska Puspitaningsih,0.6139959096908569,56,2,Data Analyst
-big data,10,b4_EdJYAAAAJ,Moh Khoridatul Huda,0.6139959096908569,56,3,Data Analyst
+graph neural network,1,A9L19RMAAAAJ,Pradini Puspitaningayu,0.6894165277481079,53,2,comparative study of graph neural networks for device classification in social iot
+graph neural network,2,BIrtbD8AAAAJ,Ibnu Febry Kurniawan,0.6894165277481079,53,3,comparative study of graph neural networks for device classification in social iot
+graph neural network,3,q-sbahIAAAAJ,Ulfa Siti Nuraini,0.6894165277481079,53,2,comparative study of graph neural networks for device classification in social iot
+graph neural network,4,lmlBHlsAAAAJ,Widi Aribowo,0.6463146805763245,24,10,ELMAN-RECURRENT NEURAL NETWORK FOR LOAD SHEDDING OPTIMIZATION
+graph neural network,5,CxdwNaYAAAAJ,Wiyli Yustanti,0.6209824085235596,53,7,Analisis Permintaan Barang Habis Pakai Menggunakan Algoritma Apriori dan Artificial Neural Network (Studi Kasus: Instalasi Bedah Rumah Sakit X)
+graph neural network,6,Tp_X_bYAAAAJ,Farid Baskoro,0.6196012496948242,53,1,PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK: PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK
+graph neural network,7,j8HRV1wAAAAJ,Bambang Suprianto,0.6196012496948242,53,3,PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK: PERAMALAN BEBAN LISTRIK HARIAN MENGGUNAKAN ARTIFICIAL NEURAL NETWORK
+graph neural network,8,wlGfsB0AAAAJ,Salamun Rohman Nudin,0.6143355369567871,4,14,Penerapan Graph Coloring Menggunakan Algoritma Greedy Pada Aplikasi Pemesanan Tiket Kapal Penyeberangan
+graph neural network,9,fkxhjZ4AAAAJ,Ronggo Alit,0.6077060699462891,53,2,Training algorithm for dendrite morphological neural network using k-medoids
+graph neural network,10,XdEn69YAAAAJ,Cendra Devayana Putra,0.6077060699462891,53,1,Training algorithm for dendrite morphological neural network using k-medoids
+cyber security,1,cPj-iOIAAAAJ,Ricky Eka Putra,0.8073790073394775,20,3,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
+cyber security,2,RvG7jG4AAAAJ,I Made Suartana,0.8073790073394775,20,20,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
+cyber security,3,WdhKN0sAAAAJ,Aditya Prapanca,0.8073790073394775,20,18,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
+cyber security,4,eEtHoOAAAAAJ,Rahadian Bisma,0.8073790073394775,20,19,Pengenalan Pentingnya Cyber Security Awareness Pada Umkm
+cyber security,5,N6RJilIAAAAJ,Anita Qoiriah,0.7039728760719299,20,5,Strategi Identifikasi Resiko Keamanan Informasi Dengan Kerangka Kerja Iso 27005: 2018
+cyber security,6,CxdwNaYAAAAJ,Wiyli Yustanti,0.7039728760719299,20,4,Strategi Identifikasi Resiko Keamanan Informasi Dengan Kerangka Kerja Iso 27005: 2018
+cyber security,7,EBgY5K0AAAAJ,Moch Badrus Sholeh,0.6962346434593201,20,3,"Countering cyberterrorism: the confluence of artificial intelligence, cyber forensics and digital policing in US and UK national cybersecurity: by Reza Montasari, United …"
+cyber security,8,Em3aIV0AAAAJ,Ramadhan Cakra Wibawa,0.6895513534545898,20,1,Sosialisasi Dan Pelatihan Tentang Privacy Dan Keamanan Internet Pada Peserta Didik Smp Negeri 1 Waru
+cyber security,9,Hl6bqU8AAAAJ,Rindu Puspita Wibawa,0.6895513534545898,20,4,Sosialisasi Dan Pelatihan Tentang Privacy Dan Keamanan Internet Pada Peserta Didik Smp Negeri 1 Waru
+cyber security,10,4d_6xxEAAAAJ,Ghea Sekar Palupi,0.6895513534545898,20,5,Sosialisasi Dan Pelatihan Tentang Privacy Dan Keamanan Internet Pada Peserta Didik Smp Negeri 1 Waru
+machine learning,1,Hl6bqU8AAAAJ,Rindu Puspita Wibawa,0.7195926308631897,74,2,machine learning on academic education: bibliometric studies
+machine learning,2,Smb2eg8AAAAJ,Nanang Hoesen H A,0.7195926308631897,74,3,machine learning on academic education: bibliometric studies
+machine learning,3,t5f89iIAAAAJ,Andi Iwan Nurhidayat,0.70500648021698,58,4,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
+machine learning,4,7EQjv9wAAAAJ,Asmunin,0.70500648021698,58,7,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
+machine learning,5,OffRzhoAAAAJ,Dwi Fatrianto Suyatno,0.70500648021698,58,3,Prediksi Kinerja Akademik Mahasiswa Menggunakan Machine Learning dengan Sequential Minimal Optimization untuk Pengelola Program Studi
+machine learning,6,LeRoniwAAAAJ,Farhanna Mari,0.70402991771698,85,5,PENINGKATAN PEMAHAMAN IMPLEMENTASI MACHINE LEARNING BAGI SISWA SMK NEGERI 1 BANGIL DENGAN TEACHABLE MACHINE
+machine learning,7,fkxhjZ4AAAAJ,Ronggo Alit,0.70402991771698,85,5,PENINGKATAN PEMAHAMAN IMPLEMENTASI MACHINE LEARNING BAGI SISWA SMK NEGERI 1 BANGIL DENGAN TEACHABLE MACHINE
+machine learning,8,N6RJilIAAAAJ,Anita Qoiriah,0.6811481714248657,58,34,Implementasi Algoritma Machine Learning Untuk Pengelolaan Laporan Pada Website Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu (Dpmptsp) Kota Surabaya
+machine learning,9,6MXDzBQAAAAJ,Lilik Anifah,0.66853928565979,52,5,Pengenalan Plat Mobil Indonesia Menggunakan Learning Vector Quantization
+machine learning,10,cPj-iOIAAAAJ,Ricky Eka Putra,0.6664485931396484,58,19,implementation of neural network to determine the new college students
+iot,1,LeRoniwAAAAJ,Farhanna Mari,0.6178324222564697,87,2,INDEKS NAMA PENULIS
+iot,2,Iq3gzh4AAAAJ,Andi Mariono,0.6178324222564697,87,8,INDEKS NAMA PENULIS
+iot,3,n7IAKI0AAAAJ,Joko,0.5221553444862366,87,3,Buku Mesin Arus Bolak Balik
+iot,4,p4gdgRgAAAAJ,Rusijono,0.4866664409637451,87,10,Siti & Rusijono
+iot,5,n7ykK-IAAAAJ,Dhiyan Septa Wihara,0.483773410320282,65,2,"UPAYA MENUMBUHKAN JIWA WIRAUSAHA PETERNAK LELE MELALUI JARINGAN PEMASARAN BERBASIS TEKNOLOGI INFORMASI UNTUK MENINGKATKAN DAYA JUAL LELE (PETERNAK LELE DI DESA BANGKOK, GURAH …"
+iot,6,6RBIukkAAAAJ,Yatim Riyanto,0.47581642866134644,87,3,Kamus Umum Bahasa Indonesia
+iot,7,z7RWDi0AAAAJ,Tri Rijanto,0.4673731029033661,38,5,PENGEMBANGAN TRAINER INSTALASI PENERANGAN LISTRIK 3 FASA BERBASIS INTERNET OF THINGS (IOT) UNTUK SISWA SMK KELAS XI TITL DI SMK NEGERI 3 SURABAYA
+iot,8,34CwHgkAAAAJ,Riza Akhsani Setyo Prayoga,0.44882887601852417,87,1,Penentuan Pemasok Jagung dengan Metode ROC Pada UMKM Kuliner
+iot,9,-BuJoD0AAAAJ,Ratih Amelia,0.44176480174064636,38,1,Internet of Things: Konsep dan Implementasi
+iot,10,XdEn69YAAAAJ,Cendra Devayana Putra,0.44176480174064636,38,5,Internet of Things: Konsep dan Implementasi
+sentiment analysis,1,yXy6kW0AAAAJ,Harun Al Rosyid,0.632110059261322,45,1,Sentiment Analysis of Public Opinion on the Pertalite Fuel Issue in YouTube Comments Using the Naïve Bayes Method
+sentiment analysis,2,N6RJilIAAAAJ,Anita Qoiriah,0.6316040754318237,45,11,Detecting Students' Comprehension Based On Sentiment Analysis Of Students' Feedback
+sentiment analysis,3,8wFXNjYAAAAJ,Naim Rochmawati,0.6316040754318237,45,9,Detecting Students' Comprehension Based On Sentiment Analysis Of Students' Feedback
+sentiment analysis,4,hn5jrnAAAAAJ,Yuni Yamasari,0.6316040754318237,45,9,Detecting Students' Comprehension Based On Sentiment Analysis Of Students' Feedback
+sentiment analysis,5,nyyfjCgAAAAJ,Rifqi Abdillah,0.6137820482254028,45,1,"Sentiment Analysis User Regarding Hotel Reviews by Aspect Based Using Latent Dirichlet Allocation, Semantic Similarity, and Support Vector Machine Method"
+sentiment analysis,6,pb3-UjwAAAAJ,Moch Deny Pratama,0.6137820482254028,45,3,"Sentiment Analysis User Regarding Hotel Reviews by Aspect Based Using Latent Dirichlet Allocation, Semantic Similarity, and Support Vector Machine Method"
+sentiment analysis,7,cPj-iOIAAAAJ,Ricky Eka Putra,0.6135079264640808,45,8,exploring naive bayes variants for classifying emotions in e-commerce reviews
+sentiment analysis,8,CxdwNaYAAAAJ,Wiyli Yustanti,0.6135079264640808,45,10,exploring naive bayes variants for classifying emotions in e-commerce reviews
+sentiment analysis,9,Jzuk6doAAAAJ,Aries Dwi Indriyanti,0.5780846476554871,45,9,Analisis Sentimen Opini Publik Terhadap Kebijakan Baru Skripsi Pada Media Sosial Twitter Menggunakan Metode Naive Bayes: Public Opinion Sentiment Analysis of New Thesis …
+sentiment analysis,10,psg8hdoAAAAJ,Bonda Sisephaputra,0.5663321018218994,45,2,Pemanfaatan Filter Dalam Object-Based Opinion Mining Pada Review Produk Pariwisata
+gamelan digital signal,1,lFCI_vsAAAAJ,Atik Wintarti,0.6576915979385376,7,7,separation of gamelan instruments signal using ica based on projection pursuit
+gamelan digital signal,2,tzjThtIAAAAJ,Elly Matul Imah,0.6061171889305115,7,7,comparison of feature extraction for noise-robust gamelan tone signal recognition
+gamelan digital signal,3,DiBTIz4AAAAJ,Riskyana Dewi Intan P,0.6061171889305115,7,2,comparison of feature extraction for noise-robust gamelan tone signal recognition
+gamelan digital signal,4,nWPONc8AAAAJ,Lusia Rakhmawati,0.5172803401947021,0,18,RANCANG BANGUN ELECTRONIC GAME PADA KOMPETENSI DASAR MEMAHAMI MODEL ATOM BAHAN SEMIKONDUKTOR DI SMK NEGERI 1 JETIS MOJOKERTO
+gamelan digital signal,5,hn5jrnAAAAAJ,Yuni Yamasari,0.5163190960884094,0,2,Design And Implementation Serious Game “Tic Tac Toe Math”
+gamelan digital signal,6,_n2j0ZAAAAAJ,I Gusti Lanang Putra Eka Prismana,0.5072793364524841,0,5,Pengembangan Game Edukasi Pengenalan Jaringan Nirkabel Berbasis Android Pada Kelas Xi Tkj Smk Negeri 1 Surabaya
+gamelan digital signal,7,p1pK7E4AAAAJ,Subuh Isnur Haryudo,0.49120181798934937,38,29,Sistem Kontrol dan Monitoring jarak Jauh Menggunakan SMS Berbasis Microkontroller Arduino Pada Instalasi Otomasi Kelistrikan Industri
+gamelan digital signal,8,Em3aIV0AAAAJ,Ramadhan Cakra Wibawa,0.4867001175880432,0,5,measuring quality of mobile games from player perspective and network conditions
+gamelan digital signal,9,nbtuM4IAAAAJ,Parama Diptya Widayaka,0.48383939266204834,29,13,Pengukuran Jarak Pada Mobile Robot Menggunakan Xbee Berdasarkan Nilai Receive Signal Strength Indicator (RSSI)
+gamelan digital signal,10,6f4j4TYAAAAJ,Mahendra Widyartono,0.4835096001625061,0,12,PENGEMBANGAN MEDIA PEMBELAJARAN MENGGUNAKAN APLIKASI ROLE PLAYING GAME (RPG) PADA MATA PELAJARAN INSTALASI PENERANGAN LISTRIK

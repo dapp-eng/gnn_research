@@ -1,60 +1,103 @@
 topic_id,topic_label,n_papers
-45,"learning, strategies, teaching, student, collaborative, modeling",477
-24,"iot, monitoring, iot iot, things, internet things, smart",442
-28,"classification, data, mining, vector, support vector, clustering",289
-23,"energy, renewable energy, renewable, energy renewable, energy systems, engineering",213
-53,"qualitative, qualitative research, research, research qualitative, analysis, qualitative methods",200
-41,"video, video understanding, video analysis, understanding video, understanding, analysis",191
-39,"learning, online learning, online, learning online, technology, educational",186
-57,"web, educational, qualitative, information, informasi, usability",155
-29,"blockchain, twitter, text, sentiment, sentiment analysis, classification",144
-58,"qualitative, qualitative research, research, research qualitative, educational, analysis",142
-20,"optimization, algorithm, neural, metaheuristic, neural networks, optimization algorithm",141
-44,"learning, media, technology, educational, educational technology, qualitative",138
+38,"iot, monitoring, iot iot, things, internet things, internet",328
+86,"learning, collaborative, collaborative learning, problem, modeling, student",274
+22,"energy, renewable energy, renewable, energy renewable, energy systems, solar",212
+96,"qualitative, qualitative research, research, research qualitative, analysis, qualitative methods",154
 0,"game, game theory, gamification, theory, game edukasi, theory gamification",137
-55,"qualitative, qualitative research, research, ethnography, studies, cultural studies",134
-56,"data, data warehousing, warehousing, database, warehousing data, management",131
-52,"qualitative, research, qualitative research, research qualitative, educational, qualitative methods",128
-27,"image, classification, cancer, osteoarthritis, imaging, retinopathy",125
-47,"teacher, educational, education, qualitative, teaching, practices",119
-31,"software, requirements, software design, design, software development, software requirements",111
-3,"electrical, electrical engineering, engineering, learning, training, automation",103
-12,"qualitative, pendukung keputusan, sistem pendukung, keputusan, pendukung, analysis",103
-4,"trainer, training, pengembangan trainer, iot, teacher training, pre training",102
-26,"image, recognition, neural, convolutional neural, convolutional, watermarking",99
-25,"neural, deep, neural networks, networks, deep learning, learning",98
-9,"digital, currency, digital currency, financial, digital certificates, certificates",97
-34,"learning, android, mobile, technology, mobile learning, educational",95
-17,"control, control systems, dc, systems, pid, actuators",90
-21,"duck, bacteria, central, soil, extract, central javanese",87
-8,"transaction, transactions, transaction management, debt, microeconomics, blockchain",84
-51,"work, motivation, qualitative, professional, student, engagement",83
-54,"qualitative, qualitative research, research, research qualitative, policy, analysis",78
-42,"learning, blended, blended learning, online learning, based blended, learning online",74
-13,"user, customer, purchase, engagement, user engagement, brand",73
-16,"network, intrusion, peer, cloud networking, networking, software defined",70
-38,"usability, user, user evaluation, evaluation, usability engineering, usability usability",69
-50,"motivation, learning motivation, student motivation, motivation student, motivation learning, student",67
-49,"teacher, professional, student, professional development, teacher competencies, competencies",67
-14,"robot, robotics, learning, mechatronics, mobile robot, actuators",61
-11,"data modeling, modeling, data, modeling data, model, qualitative",60
-15,"cloud, cloud computing, load balancing, balancing, load, computing",60
-35,"design, user, centered design, centered, user centered, interface",59
-32,"learning, digital, digital learning, technology, educational, digital literacy",58
-30,"learning, educational, learning management, management, management systems, website",58
-18,"fuzzy, fuzzy logic, logic, metode fuzzy, logic data, mining",57
-22,"neural, forecasting, neural network, neural networks, solar, irradiance",54
-5,"security, information security, information, audit, iso, risk",53
-19,"logic, fuzzy, fuzzy logic, logic programming, logic logic, control systems",51
-43,"media, media pembelajaran, pembelajaran, web, pengembangan media, learning",45
-33,"visual, visual design, design, visual arts, arts, visual perception",42
-48,"leadership, teacher, educational leadership, educational, leadership teacher, school",41
-1,"vivaldi, antenna, 15, indoor, 802 15, fingerprint",40
-40,"augmented, augmented reality, reality, visual, design, technology",40
-36,"islamic, educational, arabic, teaching, pedagogical, islam",39
-10,"software, estimation, points, software size, use case, complexity",35
-7,"lms, learning, meningkatkan kompetensi, moodle, pengembangan lms, pjbl untuk",35
-46,"sustainable, sustainability, green, sustainable development, green initiatives, initiatives",35
-2,"heart, heart rate, detection, vector, signal, classification",34
-37,"testing, testing software, software testing, user testing, testing testing, unit testing",31
-6,"virtual, virtual reality, reality, virtualization, virtual machines, learning",30
+58,"clustering, classification, mining, data, data mining, means",131
+100,"data warehousing, warehousing, data, database, warehousing data, architecture",121
+25,"optimization, algorithm, metaheuristic, optimization algorithm, swarm, algorithms",110
+19,"software, requirements, software design, design, software development, software requirements",99
+94,"teacher, educational, education, qualitative, research, pedagogical",96
+16,"trainer, training, pengembangan trainer, iot, pre training, teacher training",95
+83,"learning, qualitative, media, educational, research, qualitative research",95
+65,"smart, iot, devices, smart devices, smart city, mobile",89
+91,"qualitative, research, qualitative research, research qualitative, qualitative methods, methods",89
+45,"twitter, sentiment, sentiment analysis, text, classification, social",88
+80,"video, video analysis, video understanding, understanding, media video, understanding video",86
+87,"ethnography, studies, cultural studies, cultural, ethnography ethnography, qualitative research",82
+97,"qualitative, qualitative research, research, research qualitative, educational, analysis",81
+32,"qualitative, pendukung keputusan, sistem pendukung, keputusan, pendukung, research",79
+10,"digital, currency, digital currency, certificates, digital certificates, digital learning",79
+88,"qualitative, qualitative research, research, research qualitative, educational, pedagogical",75
+18,"user, customer, purchase, engagement, music, user engagement",75
+54,"image, recognition, neural, face, classification, convolutional",74
+85,"learning, modeling, learner modeling, learning management, pembelajaran, learner",73
+42,"network, intrusion, peer, cloud networking, prevention, quality service",71
+75,"learning, strategies, metacognitive, cognitive, self, metacognitive strategies",71
+93,"teacher, professional, student, professional development, competencies, teacher competencies",71
+99,"web, usability, web usability, web3, semantic web, semantic",71
+95,"qualitative, qualitative research, research, research qualitative, analysis, data analysis",69
+81,"learning, online learning, online, learning online, technology, educational",68
+101,"information, educational, informasi, sistem informasi, information architecture, data",68
+90,"work, job, engagement, employee, qualitative, motivation",68
+28,"usability, user, user evaluation, evaluation, usability engineering, usability usability",67
+72,"motivation, learning motivation, motivation student, student motivation, motivation learning, motivation intrinsic",66
+31,"data modeling, modeling, data, modeling data, model, qualitative",64
+7,"tracking, detection, heart, object, heart rate, object tracking",63
+53,"deep, neural, neural networks, networks, deep learning, transfer learning",63
+29,"robot, robotics, mechatronics, learning, mobile robot, actuators",62
+74,"learning, online learning, online, learning online, student, motivation",62
+47,"learning, blended, blended learning, online learning, based blended, learning online",62
+52,"vector, support vector, support, vector machine, classification, machine",62
+68,"qualitative, research, qualitative research, policy, research qualitative, public",61
+39,"fuzzy, fuzzy logic, logic, metode fuzzy, logic data, mining",59
+30,"electrical, electrical engineering, learning, engineering, automation, thinking",58
+98,"qualitative, research, qualitative research, research qualitative, educational, educational technology",55
+76,"video, software, learning, video analysis, multimedia, educational",54
+34,"control systems, control, pid, motor, actuators, systems",53
+57,"image, watermarking, tumor, fragile, cancer, brain tumor",53
+69,"digital, learning, digital learning, digital literacy, literacy, educational",52
+40,"fuzzy, logic, fuzzy logic, logic logic, control, logic programming",51
+12,"microeconomics, macroeconomics, debt, dividend, performance, business",51
+73,"learning, technology, educational, enhanced learning, technology enhanced, enhanced",49
+36,"learning, educational, learning management, website, management, management systems",49
+82,"learning, online learning, learning online, online, technology, educational",48
+20,"security, information security, information, iso, audit, risk",48
+26,"design, user, centered design, centered, user centered, interface",47
+41,"human geography, geography, geografis, informasi geografis, geophysics, nearest",47
+62,"teaching, teacher, learning, teaching strategies, strategies, teaching methods",46
+77,"learning, media, software, pengembangan media, technology, instruction",43
+59,"forest, random, random forest, trees, decision trees, decision",43
+89,"leadership, teacher, educational leadership, educational, leadership teacher, school",42
+79,"video, video understanding, pengembangan multimedia, multimedia, multimedia interaktif, understanding",42
+66,"android, learning, berbasis android, mobile, devices, interfaces",41
+37,"cognitive, psychology, strategies, cognitive strategies, developmental, developmental psychology",41
+6,"antenna, vivaldi, 15, indoor, fingerprint, 802 15",40
+44,"load balancing, balancing, load, cloud, server, microservices",40
+61,"visual, visual design, design, visual arts, arts, design visual",40
+11,"transactions, transaction, transaction management, bank, blockchain, digital currency",39
+13,"lms, learning, meningkatkan kompetensi, moodle, pengembangan lms, pjbl untuk",36
+60,"augmented reality, augmented, reality, visual, user interface, interface",36
+50,"soil, bacteria, leaves, acid, leaves extracts, altitude",36
+63,"sustainable, sustainability, green, sustainable development, environmental, initiatives",35
+84,"web, media, media pembelajaran, pengembangan media, pembelajaran, web3",35
+92,"qualitative, qualitative research, research, research qualitative, data, data analysis",34
+48,"neural, neural network, convolutional neural, convolutional, classification, cnn",33
+14,"software, estimation, points, use case, software size, complexity",33
+24,"neural, neural networks, backpropagation, networks, neural network, backpropagation neural",32
+67,"learning, mobile learning, mobile, technology, technology enhanced, enhanced learning",31
+8,"virtual, virtual reality, reality, virtualization, virtual machines, learning",31
+27,"testing, software testing, testing software, user testing, unit testing, testing testing",31
+71,"islamic, educational, arabic, teaching, moral, pedagogical",30
+33,"neural, lstm, forecasting, time series, neural networks, sales",30
+35,"control, predictive control, model predictive, control systems, disturbance, predictive",29
+78,"video, animasi, image, video understanding, video analysis, understanding",29
+51,"duck, central, central javanese, javanese, ducks, microbiota",27
+46,"osteoarthritis, diabetic retinopathy, retinopathy, diabetic, knee, proliferative",27
+55,"covid, epidemiology, covid 19, 19, health, 19 di",27
+56,"diagnosis, cancer, classification, clinical, medicine, vector",25
+64,"android, berbasis android, smart devices, software, devices, smart",25
+49,"extract, curcuma, longa, curcuma longa, chitosan, effect",24
+70,"learning, online learning, online, google, google classroom, learning online",24
+2,"ai, intelligence, artificial intelligence, artificial, explainable ai, explainable",23
+23,"neural, thunderstorm, neural networks, convective, tawau, networks",23
+17,"motor, electrical, motor listrik, training, engineering, interface",21
+5,"chatbot, chatbots, whatsapp, dialogue, dialogue systems, stemming",21
+4,"encryption, enkripsi, cryptography, decryption, algoritma, advanced",21
+21,"chemistry, principles, metal, properties, analytical chemistry, band",21
+15,"entrepreneurial, motivation, self efficacy, efficacy, self, student",20
+1,"exercise, training, physical, intensity, healthy, pose",18
+9,"financial, financial literacy, literacy, financial management, female, financial technology",18
+3,"blockchain, blockchain technology, technology blockchain, blockchain protocol, distributed ledger, ledger",17
+43,"cloud, cloud computing, computing, computing cloud, cloud cloud, storage",15

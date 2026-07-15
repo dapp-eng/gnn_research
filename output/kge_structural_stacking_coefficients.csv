@@ -1,0 +1,15 @@
+model,feature,coefficient
+rotate,kge_score,0.6568120225063762
+rotate,log_common_neighbors,0.21816200102292618
+rotate,jaccard,0.3524534533367323
+rotate,log_adamic_adar,0.2703870210414127
+rotate,log_resource_allocation,0.3786309305579237
+rotate,log_preferential_attachment,0.1746834477316122
+rotate,author_content_cosine_similarity,0.1578604674645262
+complex,kge_score,0.7251677635125084
+complex,log_common_neighbors,0.2449056176471005
+complex,jaccard,0.175907156993868
+complex,log_adamic_adar,0.2678399861487125
+complex,log_resource_allocation,0.3381527374505333
+complex,log_preferential_attachment,0.39441698929532026
+complex,author_content_cosine_similarity,0.2728293229412285
