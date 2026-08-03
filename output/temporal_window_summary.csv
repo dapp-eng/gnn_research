@@ -1,0 +1,6 @@
+window,train_years,target_year,active_authors,train_coauthor_edges,graph_density,target_pairs_total,target_pairs_new,target_pairs_renewed,hetero_nodes,role_in_pipeline
+w1,2018 to 2020,2021,85,267,0.0339,190,107,83,1489,In Sample Training Target Window
+w2,2019 to 2021,2022,88,324,0.04114,222,113,109,1699,In Sample Training Target Window
+w3,2020 to 2022,2023,95,413,0.05244,270,160,110,1899,In Sample Training Target Window
+w4,2021 to 2023,2024,104,494,0.06273,335,185,150,2020,In Sample Training Target Window
+w5,2022 to 2024,2025,111,597,0.07581,484,278,206,2302,Held Out Validation and Test Window

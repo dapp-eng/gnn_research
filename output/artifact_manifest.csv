@@ -3,25 +3,35 @@ output/viz/eda_publication_volume.png,publication volume per year and document t
 output/viz/eda_top20_authors.png,top 20 most prolific authors by total publication count
 output/viz/eda_edge_volume_temporal.png,coauthorship edge volume per year and cumulative edge ratio
 output/viz/eda_graph_topology.png,"coauthorship graph topology: degree distribution, component sizes, clustering"
-output/viz/hdbscan_grid_search.png,hdbscan grid search dbcv validity index curves
+output/viz/hdbscan_grid_search.png,hdbscan grid search dbcv validity index curves (historical-only fit)
 output/topic_labels.csv,auto-generated topic labels via c-TF-IDF with paper counts
 output/viz/topic_umap_scatter.png,2D UMAP scatter plot of paper topic clusters from HDBSCAN
 output/viz/topic_umap_interactive.html,interactive UMAP 2D scatter plot of paper topic clusters
 output/viz/topic_size_bar.png,top 15 research topics ranked by number of papers
-output/viz/hetero_graph_schema.png,heterogeneous temporal graph schema diagram 3 node types and 3 meta-relations
+output/temporal_window_summary.csv,"summary statistics per temporal sliding window, active authors, training edges, new versus renewed target pairs, heterogeneous node count"
+output/viz/temporal_window_evolution.png,"temporal evolution of four metrics across sliding windows, active authors, heterogeneous node count, target pair composition, graph density"
+output/viz/hetero_graph_schema.png,"heterogeneous temporal graph schema diagram, three node types and three relations as implemented"
 output/viz/coauthor_subgraph_sample.png,top-25 author coauthorship subgraph with labeled nodes and edge width as weight
 output/viz/coauthor_subgraph_interactive.html,interactive plotly coauthorship subgraph top 25 authors
 output/link_prediction_split_summary.csv,temporal split summary
 output/cold_start_diagnostics.csv,cold-start ratio of evaluation pairs with no common neighbor in training graph
 output/models/dysat_model.pt,trained DySAT model state dict
+output/dysat_per_window_metrics.csv,"AUC, AP, Hits at 10, MRR for DySAT evaluated separately per temporal sliding window"
+output/viz/dysat_per_window_performance.png,"DySAT performance trend, AUC, AP, Hits at 10, MRR across temporal sliding windows"
 output/viz/dysat_training_curve.png,DySAT training loss and validation AUC curves per epoch
-output/dysat_seed_stability.csv,DySAT seed stability across 3 random seeds
+output/viz/dysat_training_curve.png,DySAT training loss and validation AUC curves per epoch
+output/dysat_seed_stability.csv,"DySAT seed stability across 3 seeds, identical training regime as main model"
 output/model_comparison.csv,Full benchmark comparison table across all models on test split
-output/viz/classification_ranking_metrics_bar.png,Proportional bar chart comparison of classification ranking metrics across models
-output/viz/regression_error_metrics_bar.png,Bar chart comparison of RMSE and MAE regression error metrics
-output/viz/cold_start_breakdown.png,cold-start vs non-cold-start AUC breakdown per model
+output/viz/classification_ranking_metrics_bar.png,"2x2 grid of classification ranking metrics compared per model, grouped by learned vs non-learned"
+output/viz/regression_error_metrics_bar.png,"RMSE and MAE regression error metrics, one panel per metric"
+output/viz/cold_start_breakdown.png,"cold-start vs non-cold-start AUC breakdown per model, all 7 models"
+output/auc_bootstrap_ci_significance.csv,bootstrap 95% CI AUC per model + uji signifikansi DySAT vs runner-up
+output/tri_feature_ablation_per_seed.csv,"ablation study raw per-seed results, 3 seeds per feature variant"
+output/tri_feature_ablation.csv,"ablation study: mean and std across 3 seeds per feature variant, per classification metric"
+output/tri_feature_ablation_significance.csv,"paired t-test of each ablated variant against full tri-feature, per metric, paired by seed"
+output/viz/tri_feature_ablation_bar.png,2x2 grid ablation study tri-feature fusion dengan error bar mean±std 3 seeds
 output/top3_models.csv,top 3 models ranked by average rank across all evaluation metrics
-output/predicted_collaborations_2025.csv,full ranked list of predicted collaborations for 2025 with author names and scores
-output/viz/predicted_collaboration_graph_2025.png,predicted collaboration network for 2025 with labeled author nodes and edge type legend
-output/viz/predicted_collaboration_graph_interactive.html,interactive plotly predicted collaboration network 2025
+output/predicted_collaborations_2025.csv,"top predicted new and renewed collaborations for 2025 (top-k only, memory safe)"
+output/viz/predicted_collaboration_graph_2025.png,"predicted collaboration network for 2025, side by side top-30 new pairs and top-30 renewed pairs"
+output/viz/predicted_collaboration_graph_interactive.html,"interactive plotly predicted collaboration network 2025, side by side new vs renewed"
 output/top20_new_collaborations_2025.csv,top 20 predicted new collaboration pairs for 2025 with author names and scores

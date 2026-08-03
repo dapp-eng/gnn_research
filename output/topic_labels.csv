@@ -1,29 +1,28 @@
 topic_id,topic_label,n_papers
-9,vector / deep / convolutional neural,667
-21,analysis thematic / ethnography / methods thematic,581
-8,metaheuristic / logic logic / swarm optimization,443
-11,wireless sensor / sensor networks / things iot,434
-25,teacher empowerment / leadership teacher / mentoring,419
-19,strategies metacognitive / collaborative problem / strategies cognitive,274
-2,understanding video / augmented reality / technology visual,252
-24,mobile learning / computer assisted / assisted instruction,245
-26,wellbeing qualitative / research student / research educational,224
-23,model project / active learning / pembelajaran project,216
-15,data warehousing / warehousing data / architecture data,208
-17,usability user / testing usability / ux,187
-12,renewable / photovoltaic / dc microgrid,185
-1,duck / bacteria / extract,176
-13,software size / scrum / estimation software,174
-7,debt / blockchain / financial literacy,155
-22,learning online / pembelajaran learning / online learning,131
-10,software defined / defined network / cloud computing,129
-20,based blended / flipped / blended learning,129
-16,usability web3 / semantic web / web3 usability,128
-5,devices software / chatbot / devices telecommunications,121
-0,game edukasi / game theory / bangun game,113
-6,certificates digital / currency educational / digital music,112
-27,telecommunications qualitative / analysis pedagogical / factors educational,110
-18,modeling entity / modeling er / model data,107
-3,atmospheric science / geophysics / thunderstorm,86
-14,alumni / educational data / informatika universitas,80
-4,motivation intrinsic / motivation qualitative / pengaruh motivasi,74
+19,ethnography / analysis thematic / sustainable practices,579
+13,things iot / wireless sensor / iot iot,435
+9,metaheuristic / swarm optimization / logic logic,406
+15,vector / naive / random forest,380
+22,computer assisted / model project / assisted instruction,373
+17,metacognitive / cooperative learning / collaborative learning,330
+18,user centered / ux / usability usability,328
+20,leadership teacher / education teacher / teacher competencies,294
+8,understanding video / augmented reality / video pembelajaran,279
+24,educational leadership / wellbeing qualitative / ethnography,277
+21,mobile learning / online learning / learning online,218
+25,architecture data / warehousing / maturity,218
+26,software size / estimation software / scrum,197
+14,convolutional neural / networks deep / deep learning,190
+4,duck / bacteria / extract,166
+11,photovoltaic / renewable / energy,141
+12,software defined / defined network / cloud computing,140
+3,debt / ledger / blockchain,122
+23,telecommunications qualitative / analysis pedagogical / factors educational,119
+5,methods self / entrepreneurial / purchase,118
+0,game edukasi / gamification / game theory,117
+10,devices software / interfaces smart / devices telecommunications,100
+16,based blended / blended learning / online learning,98
+2,certificates digital / digital digital / currency educational,94
+6,modeling entity / modeling er / model data,92
+1,atmospheric science / geophysics / thunderstorm,89
+7,motivation intrinsic / motivation qualitative / pengaruh motivasi,73
