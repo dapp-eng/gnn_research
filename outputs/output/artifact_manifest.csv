@@ -11,8 +11,8 @@ output/viz/topic_size_bar.png,top 15 research topics ranked by number of papers
 output/temporal_window_summary.csv,"summary statistics per temporal sliding window, active authors, training edges, new versus renewed target pairs, heterogeneous node count"
 output/viz/temporal_window_evolution.png,"temporal evolution of four metrics across sliding windows, active authors, heterogeneous node count, target pair composition, graph density"
 output/viz/hetero_graph_schema.png,"heterogeneous temporal graph schema diagram, three node types and three relations as implemented"
-output/viz/coauthor_subgraph_sample.png,top-25 author coauthorship subgraph with labeled nodes and edge width as weight
-output/viz/coauthor_subgraph_interactive.html,interactive plotly coauthorship subgraph top 25 authors
+output/viz/coauthor_subgraph_sample.png,"top-25 author coauthorship subgraph with labeled nodes and edge width as weight, shown across all temporal sliding windows"
+output/viz/coauthor_subgraph_interactive.html,interactive plotly coauthorship subgraph across all temporal sliding windows with play/slider animation
 output/link_prediction_split_summary.csv,temporal split summary
 output/cold_start_diagnostics.csv,cold-start ratio of evaluation pairs with no common neighbor in training graph
 output/models/dysat_model.pt,trained DySAT model state dict
@@ -35,3 +35,10 @@ output/predicted_collaborations_2025.csv,"top predicted new and renewed collabor
 output/viz/predicted_collaboration_graph_2025.png,"predicted collaboration network for 2025, side by side top-30 new pairs and top-30 renewed pairs"
 output/viz/predicted_collaboration_graph_interactive.html,"interactive plotly predicted collaboration network 2025, side by side new vs renewed"
 output/top20_new_collaborations_2025.csv,top 20 predicted new collaboration pairs for 2025 with author names and scores
+output/models/dysat_author_embeddings_all_windows.npy,"DySAT author embeddings for every sliding window and every author, shape (n_authors, n_windows, hidden_dim), for downstream generative AI use"
+output/models/static_rgcn_model.pt,trained Static Heterogeneous RGCN model state dict
+output/models/static_vgae_model.pt,trained Static VGAE model state dict
+output/models/evolvegcn_model.pt,trained EvolveGCN-O model state dict
+output/models/author_id_to_index.json,"mapping from author_id to embedding row index, required to align saved embeddings with authors"
+output/models/author_id_to_name.json,mapping from author_id to display name
+output/models/model_config.json,model architecture and training hyperparameters needed to reinstantiate saved models for future generative AI development

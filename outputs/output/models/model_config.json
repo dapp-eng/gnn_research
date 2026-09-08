@@ -1,0 +1,58 @@
+{
+  "in_dim": 452,
+  "hidden_dim": 128,
+  "num_relations": 3,
+  "n_spatial_layers": 2,
+  "n_temporal_heads": 4,
+  "dropout": 0.15,
+  "lambda_reg": 0.15,
+  "intensity_cap": 5,
+  "learned_model_epochs": 150,
+  "learned_model_lr": 0.0008,
+  "learned_model_weight_decay": 0.0002,
+  "sliding_windows": [
+    {
+      "name": "w1",
+      "train_years": [
+        2018,
+        2020
+      ],
+      "target_year": 2021
+    },
+    {
+      "name": "w2",
+      "train_years": [
+        2019,
+        2021
+      ],
+      "target_year": 2022
+    },
+    {
+      "name": "w3",
+      "train_years": [
+        2020,
+        2022
+      ],
+      "target_year": 2023
+    },
+    {
+      "name": "w4",
+      "train_years": [
+        2021,
+        2023
+      ],
+      "target_year": 2024
+    },
+    {
+      "name": "w5",
+      "train_years": [
+        2022,
+        2024
+      ],
+      "target_year": 2025
+    }
+  ],
+  "sentence_transformer_model": "all-MiniLM-L6-v2",
+  "n_authors": 126,
+  "num_topics": 27
+}
