@@ -1,0 +1,7 @@
+comparator,mean_auc_diff_dysat_minus_comparator,p_value,significant_at_0.05
+Static RGCN,0.046769525386884746,0.006,True
+TGN (Continuous-Time),0.0636041095181409,0.009,True
+Static VGAE,0.051083613684591904,0.025,True
+EvolveGCN-O (Temporal),0.0390152683608509,0.04,True
+Common Neighbors Jaccard,0.04955767041043427,0.071,False
+ROLAND (Temporal),0.016821670720977174,0.389,False

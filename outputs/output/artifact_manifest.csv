@@ -21,16 +21,21 @@ output/viz/dysat_per_window_performance.png,"DySAT performance trend, AUC, AP, H
 output/viz/dysat_training_curve.png,DySAT training loss and validation AUC curves per epoch
 output/viz/dysat_training_curve.png,DySAT training loss and validation AUC curves per epoch
 output/dysat_seed_stability.csv,"DySAT seed stability across 3 seeds, identical training regime as main model"
-output/model_comparison.csv,Full benchmark comparison table across all models on test split
+output/model_comparison.csv,Full benchmark comparison table across all models on test split and parameter counts
 output/viz/classification_ranking_metrics_bar.png,"2x2 grid of classification ranking metrics compared per model, grouped by learned vs non-learned"
 output/viz/regression_error_metrics_bar.png,"RMSE and MAE regression error metrics, one panel per metric"
-output/viz/cold_start_breakdown.png,"cold-start vs non-cold-start AUC breakdown per model, all 7 models"
-output/auc_bootstrap_ci_significance.csv,bootstrap 95% CI AUC per model + uji signifikansi DySAT vs runner-up
+output/viz/cold_start_breakdown.png,"cold-start vs non-cold-start AUC breakdown per model, all 9 models"
+output/auc_bootstrap_ci_significance.csv,bootstrap 95% CI AUC per model including ROLAND and TGN
+output/auc_paired_bootstrap_vs_dysat.csv,paired bootstrap test of DySAT against every other model
+output/temporal_multiseed_runs.csv,"per-seed results of EvolveGCN-O, DySAT, ROLAND and TGN under one shared training protocol"
+output/temporal_multiseed_summary.csv,"mean and std over seeds of accuracy, training time per epoch, peak GPU memory and parameters"
+output/viz/link_prediction_diagnostics.png,"ROC curves, precision-recall curves and rank-percentile separation for all learned models and the best heuristic"
+output/viz/temporal_efficiency_convergence.png,"accuracy versus training cost, GPU memory, convergence and seed stability of the four temporal GNNs"
 output/tri_feature_ablation_per_seed.csv,"ablation study raw per-seed results, 3 seeds per feature variant"
 output/tri_feature_ablation.csv,"ablation study: mean and std across 3 seeds per feature variant, per classification metric"
 output/tri_feature_ablation_significance.csv,"paired t-test of each ablated variant against full tri-feature, per metric, paired by seed"
 output/viz/tri_feature_ablation_bar.png,2x2 grid ablation study tri-feature fusion dengan error bar mean±std 3 seeds
-output/top3_models.csv,top 3 models ranked by average rank across all evaluation metrics
+output/model_rankings_all.csv,all models ranked by average rank across all evaluation metrics
 output/predicted_collaborations_2025.csv,"top predicted new and renewed collaborations for 2025 (top-k only, memory safe)"
 output/viz/predicted_collaboration_graph_2025.png,"predicted collaboration network for 2025, side by side top-30 new pairs and top-30 renewed pairs"
 output/viz/predicted_collaboration_graph_interactive.html,"interactive plotly predicted collaboration network 2025, side by side new vs renewed"
